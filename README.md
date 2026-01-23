@@ -7,6 +7,12 @@ The Spiro Brick interfaces with the [Sensirion SFM3300-D](https://sensirion.com/
 
 Example differential pressure sensor with I2C and 5V interface: ELVH-M160D-HRRD-C-N2A5 for 1/16 ID 1/8 OD tubing.
 
+## Documentation
+
+- [Education Background](./spirometer%20educational%20background/)
+- [Assembly Instructions](./Spirometer%20Mechanical%20Design/)
+- [Software / Firmware](./Spirometer%20Software/)
+
 ## SFM3300
 
 - [Cleaning](./datasheets/Sensirion_GF_AN_SFM-21_Cleaning_Methods_D1.pdf)
