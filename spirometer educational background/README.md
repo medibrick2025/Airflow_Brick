@@ -119,7 +119,6 @@ lung volumes are obtained by time integration:
 
 ![Equation 4. Lung volume integration and velocity definition](images/eq04_lung_volume_time_integration.png)
 
-
 Thus, the sensor’s flow-rate output effectively represents the average airflow speed inside the device.
 
 In conventional airflow measurement, the gas density 𝜌 is assumed constant. However, in human exhalation, the molar mass 𝑀 and temperature 𝑇 both increase compared to ambient air, according to the ideal-gas law:
