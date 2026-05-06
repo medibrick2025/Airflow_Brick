@@ -81,3 +81,29 @@ After assembly:
 - Run the test code.
 
 Once completed, the Spirometer MediBrick is ready for enclosure integration and functional testing with the ESP32-S3.
+
+##User manual
+
+Before powering on the device
+The Spirometer MediBrick needs 3.7V from the battery to properly power the complete system. Make sure before the device is ran that the battery is correctly attached to its input on the microcontroller.  
+
+## Battery Connection
+
+<p align="center">
+  <img src="./images/Battery_connection.jpeg" alt="Battery Connection" width="700">
+</p>
+
+Burning the code
+To start collecting data from the Spirometer MediBrick, the most important step is to make sure that the code is properly uploaded to the system. This can be done by attaching the computer to the Spirometer device. Once connected, the code provided on the MediBrick GitHub page should be uploaded to Arduino IDE and uploaded onto the microcontroller. The display should show your inhale and exhale volumes around 0 if properly done.
+
+Reading the Data
+The display on the device shows the inhalation and exhalation volumes when in use and holds any readings if not. After use, the device will show the maximum achieved inhalation or exhalation volume.
+Resetting Instructions
+If an error occurs within the code itself, disconnect the spirometer sensor and re attach it. After the display powers back on, click the reset button found on the side of the device twice to fully reset the sensor. This will allow normal readings and measurements to be gathered
+
+## Deep Sleep
+
+<p align="center">
+  <img src="./images/Deep_sleep.jpeg" alt="Deep Sleep" width="700">
+</p>
+

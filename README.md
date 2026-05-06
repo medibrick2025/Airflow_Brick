@@ -10,7 +10,7 @@ Example differential pressure sensor with I2C and 5V interface: ELVH-M160D-HRRD-
 ## Documentation
 
 - [Education Background](./spirometer%20educational%20background/)
-- [Assembly Instructions](./Spirometer%20Mechanical%20Design/)
+- [Assembly Instructions](./Spirometer%20Mechanical%20Design%20And%20Mechanical%20Assembly/)
 - [Software / Firmware](./Spirometer%20Software/)
 
 ## SFM3300
