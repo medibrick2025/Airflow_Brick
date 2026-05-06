@@ -17,7 +17,7 @@ Purchasing of
 ## Sensor Pinout
 
 <p align="center">
-  <img src="Sensor\_pinout.jpg" alt="Sensor Pinout" width="700">
+  <img src="./Sensor_pinout.jpg" alt="Sensor Pinout" width="700">
 </p>
 
 This will reduce any confusion of where to solder each wire from the ESP to the pogo pins.  As the wiring to the sensor must be accurate with the datasheet design found below:
@@ -25,7 +25,7 @@ This will reduce any confusion of where to solder each wire from the ESP to the 
 ## Faceplate Pinout
 
 <p align="center">
-  <img src="Faceplate\_pinout.jpg" alt="Faceplate Pinout" width="700">
+  <img src="./Faceplate_pinout.jpg" alt="Faceplate Pinout" width="700">
 </p>
 
 4.⁠ ⁠Pass heat shrink onto all 6 wires that will be soldered onto the pogo pins. This prepares the heat shrink for step 6
