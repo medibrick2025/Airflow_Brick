@@ -4,6 +4,8 @@ Spirometry is a fundamental respiratory test used to assess lung function by mea
 
 ![Figure 1. Example spirogram showing lung volume as a function of time](images/fig01_spirogram_time_volume.jpg)
 
+[source](https://histology.oit.duke.edu/MBS/Videos/Phys/Phys%205.2%20Resp%20Lung%20Volumes/Phys%205.2%20Resp%20Lung%20Volumes.pdf)
+
 - **Tidal Volume (TV):** The amount of air inhaled or exhaled during normal, resting breathing (typically 400–600 mL).
 - **Inspiratory Reserve Volume (IRV):** Additional air that can be forcibly inhaled after a normal inhalation (~ above 1700 mL).
 - **Expiratory Reserve Volume (ERV):** Additional air that can be forcibly exhaled after a normal exhalation (~800–1200 mL).
@@ -17,6 +19,8 @@ Spirometry is a fundamental respiratory test used to assess lung function by mea
 - **FEF₂₅–₇₅:** The average flow rate during the middle portion of a forced exhalation (4.5 L/s).
 
 ![Figure 2. Lung volumes and capacities measured in spirometry](images/fig02_lung_volumes_diagram.png)
+
+[source](https://en.wikipedia.org/wiki/Spirometry)
 
 By plotting **flow versus volume**, a spirogram is generated, providing a visual representation of lung performance. This is especially useful for distinguishing between:
 
